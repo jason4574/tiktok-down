@@ -88,7 +88,7 @@ def download_vid(link, m, chat_id):
         return
     except Exception as e:
         print(str(e))
-        return m.edit("`Error, Try Another!`")
+        return m.edit("`Error 🤷‍♂️`")
     
       
 @bot.on_message(filters.regex(pattern="http") & filters.private)
