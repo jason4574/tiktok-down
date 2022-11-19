@@ -1,0 +1,5 @@
+pyrogram
+tgcrypto
+selenium
+pyshorteners
+webdriver-manager==3.8.3
