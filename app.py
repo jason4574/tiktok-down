@@ -17,7 +17,7 @@ from pyrogram.errors import UserNotParticipant, UserBannedInChannel
 
 bot = Client(
     "Tiktok Downloader Bot",
-    bot_token = "5100131304:AAGhs4YDY4zmRsmjqcPpNGZA55PFPlTZ2i8",
+    bot_token = "6298604288:AAHWGFEeeVebX4sFH08OdcPzq4buJ9sH728",
     api_id = 2780061,
     api_hash = "f4f1200cee4788d9d7c98d7993f8a1dd"
 )
